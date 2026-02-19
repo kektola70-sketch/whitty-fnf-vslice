@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "name": "Whitty Crazy",
+  "renderType": "sparrow",
+  "assetPath": "characters/whitty-crazy",
+  "startingAnimation": "idle",
+  "singTime": 6.0,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "Whitty CRAZY idle",
+      "frameRate": 30,
+      "offsets": [0, 0],
+      "looped": false
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "Whitty CRAZY Note LEFT",
+      "frameRate": 30,
+      "offsets": [15, -10],
+      "looped": false
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "Whitty CRAZY Note DOWN",
+      "frameRate": 30,
+      "offsets": [-8, -55],
+      "looped": false
+    },
+    {
+      "name": "singUP",
+      "prefix": "Whitty CRAZY Note UP",
+      "frameRate": 30,
+      "offsets": [-30, 30],
+      "looped": false
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "Whitty CRAZY Note RIGHT",
+      "frameRate": 30,
+      "offsets": [-50, -10],
+      "looped": false
+    }
+  ],
+  "scale": 1.0,
+  "flipX": false,
+  "healthIcon": {
+    "id": "whitty-crazy",
+    "scale": 1.0,
+    "offsets": [0, 25]
+  },
+  "cameraOffsets": [-100, 0],
+  "position": [0, 350],
+  "healthBarColor": [255, 64, 0]
+}
