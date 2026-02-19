@@ -1,0 +1,32 @@
+{
+  "version": "2.2.4",
+  "songName": "Overhead",
+  "artist": "sock.clip",
+  "charter": "Nate Anim8",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 200,
+      "n": 4,
+      "d": 4,
+      "bt": [4, 4, 4, 4]
+    }
+  ],
+  "playData": {
+    "characters": {
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "whitty",
+      "instrumental": ""
+    },
+    "stage": "alley",
+    "noteStyle": "funkin",
+    "difficulties": ["easy", "normal", "hard"],
+    "album": "whitty",
+    "previewStart": 3000,
+    "previewEnd": 18000
+  },
+  "generatedBy": "FNF V-Slice Chart Editor"
+}
