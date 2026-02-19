@@ -1,0 +1,32 @@
+{
+  "version": "2.2.4",
+  "songName": "Ballistic",
+  "artist": "sock.clip",
+  "charter": "Original Chart",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 225,
+      "n": 4,
+      "d": 4,
+      "bt": [4, 4, 4, 4]
+    }
+  ],
+  "playData": {
+    "characters": {
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "whitty",
+      "instrumental": ""
+    },
+    "stage": "alley",
+    "noteStyle": "funkin",
+    "difficulties": ["normal", "hard"],
+    "album": "whitty",
+    "previewStart": 0,
+    "previewEnd": 15000
+  },
+  "generatedBy": "FNF V-Slice Chart Editor"
+}
