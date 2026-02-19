@@ -1,0 +1,31 @@
+{
+  "songs": [
+    {
+      "songId": "lo-fight",
+      "songName": "Lo-Fight",
+      "artist": "sock.clip",
+      "album": "whitty",
+      "difficulties": ["easy", "normal", "hard"],
+      "unlocked": true,
+      "scoringRank": "GOOD"
+    },
+    {
+      "songId": "overhead",
+      "songName": "Overhead",
+      "artist": "sock.clip",
+      "album": "whitty",
+      "difficulties": ["easy", "normal", "hard"],
+      "unlocked": true,
+      "scoringRank": "GOOD"
+    },
+    {
+      "songId": "ballistic",
+      "songName": "Ballistic",
+      "artist": "sock.clip",
+      "album": "whitty",
+      "difficulties": ["normal", "hard"],
+      "unlocked": true,
+      "scoringRank": "SICK"
+    }
+  ]
+}
