@@ -1,0 +1,20 @@
+// Whitty mod script for V-Slice
+import flixel.FlxG;
+
+function onCreate():Void {
+    trace("Whitty mod loaded!");
+}
+
+function onSongStart():Void {
+    trace("Song started!");
+}
+
+function onBeatHit(beat:Int):Void {
+    if (beat % 4 == 0) {
+        FlxG.camera.zoom += 0.015;
+    }
+}
+
+function onUpdate(elapsed:Float):Void {
+    FlxG.camera.zoom = FlxMath.lerp(FlxG.camera.zoom, 1.0, elapsed * 3);
+}
