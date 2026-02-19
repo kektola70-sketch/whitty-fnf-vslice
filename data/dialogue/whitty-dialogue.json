@@ -1,0 +1,66 @@
+{
+  "dialogue": {
+    "lo-fight-start": [
+      {
+        "speaker": "whitty",
+        "text": "What do YOU want?",
+        "boxState": "normal",
+        "speed": 0.05
+      },
+      {
+        "speaker": "bf",
+        "text": "Beep bop!",
+        "boxState": "normal",
+        "speed": 0.05
+      },
+      {
+        "speaker": "whitty",
+        "text": "A rap battle? Fine, let's get this over with.",
+        "boxState": "normal",
+        "speed": 0.05
+      }
+    ],
+    "overhead-start": [
+      {
+        "speaker": "whitty",
+        "text": "You're really starting to annoy me...",
+        "boxState": "angry",
+        "speed": 0.04
+      },
+      {
+        "speaker": "bf",
+        "text": "Beep bo bap!",
+        "boxState": "normal",
+        "speed": 0.05
+      },
+      {
+        "speaker": "whitty",
+        "text": "Just... leave me alone already!",
+        "boxState": "angry",
+        "speed": 0.04
+      }
+    ],
+    "ballistic-start": [
+      {
+        "speaker": "whitty",
+        "text": "THAT'S IT!!!",
+        "boxState": "crazy",
+        "speed": 0.03,
+        "shake": true
+      },
+      {
+        "speaker": "whitty",
+        "text": "I'M GOING TO END THIS NOW!",
+        "boxState": "crazy",
+        "speed": 0.03,
+        "shake": true
+      },
+      {
+        "speaker": "bf",
+        "text": "Beep?!",
+        "boxState": "scared",
+        "speed": 0.05
+      }
+    ]
+  }
+}
