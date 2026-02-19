@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "VS Whitty",
+  "albumId": "whitty",
+  "albumTitleAsset": "freeplay/albums/whitty/title",
+  "albumArtAsset": "freeplay/albums/whitty/art",
+  "fontColor": "#FF8000",
+  "songs": [
+    "lo-fight",
+    "overhead",
+    "ballistic"
+  ]
+}
