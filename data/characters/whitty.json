@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "name": "Whitty",
+  "renderType": "sparrow",
+  "assetPath": "characters/whitty",
+  "startingAnimation": "idle",
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "Whitty idle dance",
+      "frameRate": 24,
+      "offsets": [0, 0],
+      "looped": false
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "Whitty Sing Note LEFT",
+      "frameRate": 24,
+      "offsets": [12, -7],
+      "looped": false
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "Whitty Sing Note DOWN",
+      "frameRate": 24,
+      "offsets": [-10, -50],
+      "looped": false
+    },
+    {
+      "name": "singUP",
+      "prefix": "Whitty Sing Note UP",
+      "frameRate": 24,
+      "offsets": [-35, 27],
+      "looped": false
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "Whitty Sing Note RIGHT",
+      "frameRate": 24,
+      "offsets": [-48, -7],
+      "looped": false
+    }
+  ],
+  "scale": 1.0,
+  "flipX": false,
+  "healthIcon": {
+    "id": "whitty",
+    "scale": 1.0,
+    "offsets": [0, 25]
+  },
+  "cameraOffsets": [-100, 0],
+  "position": [0, 350],
+  "healthBarColor": [255, 128, 0]
+}
